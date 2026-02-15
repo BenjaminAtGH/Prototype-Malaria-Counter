@@ -1,2 +1,2 @@
-# Prototype-Malaria-Counter
+# Malaria-Counter
 malaria counter
